@@ -9,7 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Electricity Monitor</title>
         
-        <link rel="stylesheet" href="/css/bulma.min.css">
+        <link rel="stylesheet" href="css/bulma.min.css">
     </head>
     <body>
         <navbar>
@@ -74,7 +74,7 @@
             </div>
         </footer>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js" integrity="sha512-vBmx0N/uQOXznm/Nbkp7h0P1RfLSj0HQrFSzV8m7rOGyj30fYAOKHYvCNez+yM8IrfnW0TCodDEjRqf6fodf/Q==" crossorigin="anonymous"></script>
-        <script src="/js/moment.js"></script>
-        <script src="/js/app.js"></script>
+        <script src="js/moment.js"></script>
+        <script src="js/app.js"></script>
     </body>
 </html>
