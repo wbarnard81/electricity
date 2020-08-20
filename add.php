@@ -23,7 +23,6 @@ if($dbMeter) {
     $jsonArray[] = ['date' => $currentTime, 'prevMeter' => $prevMeter, 'dbMeter' => $dbMeter];
     //convert to json and save to file
     file_put_contents('data.json', json_encode($jsonArray, JSON_PRETTY_PRINT));
-    echo $json;
 }
 
 header('Location: index.php');
