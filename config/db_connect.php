@@ -1,8 +1,8 @@
 <?php
 
-    $db = 'wbadmin_electricity';
-    $username = 'wbadmin_elecuser';
-    $password = 'Y]SyC%m-Zfaa';
+    $db = 'dbname';
+    $username = 'dbuser';
+    $password = 'password';
     $server = 'localhost';
     $errors = array('dbMeter' => '');
 
